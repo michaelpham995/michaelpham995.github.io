@@ -144,27 +144,13 @@
     margin-top: 0px;
   }
 
-  .blog-heading-text {
-    font-size: 30px;
-    margin-top: 0px;
-  }
-
   .address-heading-text {
     font-size: 20px;
-  }
-
-  .blog-heading-div {
-    flex-direction: column-reverse;
-    margin-top: 60px;
   }
 
   .address-heading-div {
     flex-direction: column;
     margin-top: 60px;
-  }
-
-  .blog-heading-text-div {
-    margin-top: 40px;
   }
 
   .address-heading-text-div {
@@ -176,14 +162,6 @@
   }
 
   .contact-header-detail-text {
-    font-size: 16px;
-    margin-left: 0px;
-    margin-right: 0px;
-    line-height: normal;
-    text-align: center;
-  }
-
-  .blog-header-detail-text {
     font-size: 16px;
     margin-left: 0px;
     margin-right: 0px;

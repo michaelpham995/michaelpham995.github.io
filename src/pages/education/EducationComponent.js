@@ -22,7 +22,7 @@ class Education extends Component {
             <div className="heading-div">
               <div className="heading-img-div">
                 {/* <img
-									src={require("../../assests/images/education.svg")}
+									src={require("../../assests/images/capanddegree.png")}
 									alt=""
 								/> */}
                 <EducationImg theme={theme} />
