@@ -10,7 +10,7 @@ const seo = {
   title: "Michael Pham's Portfolio",
   logo_name: ":)",
   description:
-    "A curious and passionate individual who is seeking to create impact projects that can create technological and societal impacts.",
+    "A curious individual who is passionate about technology and logical problem solving and is seeking to create applications that can create positive societal impact.",
   og: {
     title: "Michael Pham'a Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   title: "Michael Pham",
   logo_name: "Michael Pham",
   subTitle:
-    "A curious and passionate individual who is seeking to create impact projects that can create technological and societal impacts.",
+    "A curious individual who is passionate about technology and logical problem solving and is seeking to create applications that can create positive societal impact.",
   resumeLink:
     "https://drive.google.com/file/d/1kHjNiRFAHW0pUQCAzwRzFlPmHEEWW4zi/view?usp=sharing",
   githubProfile: "https://github.com/michaelpham995",
