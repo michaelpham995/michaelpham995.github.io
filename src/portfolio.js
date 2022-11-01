@@ -334,7 +334,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Location:",
-    subtitle: "1908 San Antonio Street, Austin, TX",
+    subtitle: "Austin, TX",
   },
   phoneSection: {
     title: "Phone Number",
